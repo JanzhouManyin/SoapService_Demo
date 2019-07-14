@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\bin\Debug\C_CRUD.exe.config
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\bin\Debug\C_CRUD.exe
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\bin\Debug\C_CRUD.pdb
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.Form1.resources
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.Properties.Resources.resources
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.csproj.CopyComplete
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.exe
+C:\Users\Administrator\source\repos\C_CRUD\C_CRUD\obj\Debug\C_CRUD.pdb
